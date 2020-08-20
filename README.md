@@ -1,0 +1,2 @@
+# splitter
+With the advent of retail investing apps like robinhood, m1 finance, and others, more and more small dollar accounts mean a stock split is an attractive proposition for many companies. By splitting their stock in August 2020, major names like AAPL and TSLA started a potential tsunami of stock splits that sent share prices rocketing to all time highs pre-split. This application will make sure that subscribers are the first to know when a company in the S&amp;P 100 or NASDAQ 100 split their stock so you can get in on the action as early as possible.
